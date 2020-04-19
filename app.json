@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "Meals App",
+    "slug": "meals-app",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "description": "Practice Project using React Native.  Meals App that lets you find the recipes of different categories with filtering as per your requirements.",
+    "githubUrl": "https://github.com/EyeSlash1998/Meals_App"
+  }
+}

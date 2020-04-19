@@ -1,0 +1,22 @@
+>Stack Navigator
+npm install --save react-navigation-stack
+
+import { createStackNavigator } from 'react-navigation-stack';
+
+>Tabs Navigator
+npm install --save react-navigation-tabs
+
+import { createBottomTabNavigator } from 'react-navigation-tabs';
+
+>Drawer Navigator
+npm install --save react-navigation-drawer
+
+import { createDrawerNavigator } from 'react-navigation-drawer';
+
+>Material Bottom tabs
+npm install --save react-navigation-material-bottom-tabs
+
+npm install --save react-native-paper
+
+
+--Install Redux and react-redux
